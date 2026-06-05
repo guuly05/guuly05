@@ -110,6 +110,10 @@ When I’m not chasing CVEs or tweaking firewall rules, you’ll find me preserv
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=guuly05&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
 </p>
 
+<!-- Languages card added below (compact layout, matching your theme) -->
+<p align="center">
+  <img src="https://gh-stats.com/api/top-langs/?username=guuly05&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" alt="Top Languages" />
+</p>
 ---
 
 ## 📫 Let's connect
