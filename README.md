@@ -2,7 +2,7 @@
 <h3 align="center">Vulnerability Assessment & Penetration Tester | Linux Sysadmin | Security Automation</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFAA&center=true&vCenter=true&width=435&lines=Offensive+Security+Researcher;Linux+Hardening+Enthusiast;Full-Stack+Security+Dev;Preserving+Somali+Poetry+with+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFAA&center=true&vCenter=true&width=435&lines=Offensive+Security+Researcher;Linux+Hardening+Enthusiast;Full-Stack+Security+Dev;Preserving+Somali+Poetry+with+Code;Anime+enthusiast;" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -114,6 +114,7 @@ When I’m not chasing CVEs or tweaking firewall rules, you’ll find me preserv
 <p align="center">
   <img src="https://gh-stats.com/api/top-langs/?username=guuly05&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" alt="Top Languages" />
 </p>
+
 ---
 
 ## 📫 Let's connect
