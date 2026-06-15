@@ -55,16 +55,6 @@ When I’m not chasing CVEs or tweaking firewall rules, you’ll find me preserv
 📦 Other:        OWASP Top 10 | CVSS | Risk Management | Technical/Executive Reporting
 ```
 
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|-------------|
-| **Cyber Attack Monitoring Dashboard** | Live threat intelligence dashboard with IP/CVE search, risk scoring, and secure deployment. | Next.js, TypeScript, Tailwind, Vercel, AbuseIPDB/CIRCL APIs |
-| **Gabay Keeper** | Digital archive for Somali oral poetry – full‑text search, dark mode, poem card exports. Preserving cultural heritage one `gabay` at a time. | React, Firebase Auth, Firestore, OCR |
-
-> 💡 *Both projects demonstrate security‑aware development and a passion for practical, user‑focused tools – plus a love for my culture.*
 
 ---
 
