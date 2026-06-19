@@ -8,6 +8,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/guuleed-maxmuud-aw-abdi-079b882bb/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:guuleedmaxmuud40@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=guuly05&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
@@ -55,6 +56,18 @@ When I’m not chasing CVEs or tweaking firewall rules, you’ll find me preserv
 📦 Other:        OWASP Top 10 | CVSS | Risk Management | Technical/Executive Reporting
 ```
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Nagios-1F4D7A?style=flat-square&logo=nagios&logoColor=white" />
+  <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white" />
+</p>
 
 ---
 
@@ -97,12 +110,21 @@ When I’m not chasing CVEs or tweaking firewall rules, you’ll find me preserv
 ## 📊 GitHub Stats
 
 <p align="center">
+  <!-- General Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=guuly05&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" alt="Guuleed's GitHub stats" width="48%" />
+  <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=guuly05&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
 </p>
 
-<!-- Languages card added below (compact layout, matching your theme) -->
 <p align="center">
-  <img src="https://gh-stats.com/api/top-langs/?username=guuly05&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" alt="Top Languages" />
+  <!-- Top Languages (Compact) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guuly05&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" alt="Top Languages" width="48%" />
+
+</p>
+
+<!-- Activity Graph (last year) -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=guuly05&theme=react-dark&bg_color=0D1117&hide_border=true" alt="Contribution Graph" width="100%" />
 </p>
 
 ---
@@ -115,7 +137,3 @@ When I’m not chasing CVEs or tweaking firewall rules, you’ll find me preserv
 - 📍 Hargeisa, Somaliland
 
 > *“Security is not a product, but a process.” – Bruce Schneier*
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=guuly05&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
