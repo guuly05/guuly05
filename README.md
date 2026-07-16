@@ -1,139 +1,135 @@
-<h1 align="center">👋 Hey there, I'm Guuleed Maxmuud Aw Abdi</h1>
-<h3 align="center">Vulnerability Assessment & Penetration Tester | Linux Sysadmin | Security Automation</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFAA&center=true&vCenter=true&width=435&lines=Offensive+Security+Researcher;Linux+Hardening+Enthusiast;Full-Stack+Security+Dev;Preserving+Somali+Poetry+with+Code;Anime+enthusiast;" alt="Typing SVG" />
-</p>
+# Guuleed Maxmuud Aw Abdi
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/guuleed-maxmuud-aw-abdi-079b882bb/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:guuleedmaxmuud40@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://komarev.com/ghpvc/?username=guuly05&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+### Vulnerability Assessment & Penetration Tester — Linux Systems Administrator — Security Automation Engineer
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8B8B8B&center=true&vCenter=true&width=520&lines=Offensive+Security+Researcher;Linux+Hardening+Specialist;Security+Automation+Developer;Digital+Archivist+of+Somali+Oral+Poetry" alt="Typing SVG" />
 
-## 🧑‍💻 Who am I?
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-1a1a1a?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guuleed-maxmuud-aw-abdi-079b882bb/)
+[![Email](https://img.shields.io/badge/Email-Contact-1a1a1a?style=flat-square&logo=gmail&logoColor=white)](mailto:guuleedmaxmuud40@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=guuly05&label=Profile+Views&color=1a1a1a&style=flat-square)
 
-I'm a **resourceful penetration tester** from Hargeisa, Somaliland, with a deep love for breaking things securely, automating security tasks, and hardening Linux systems. I don't just find vulnerabilities – I help fix them for good. My goal is to make the digital world a little safer, one `sudo` at a time.
+</div>
 
-I'm currently a **Computer Science student at the University of Hargeisa** (expected 2027, GPA 3.6/4.0), specializing in Network Security, Cryptography, Web App Security, and Secure SDLC. But I don't wait for graduation to make an impact – I've been working as a freelance pentester and Linux sysadmin since my second year.
+<br>
 
-When I’m not chasing CVEs or tweaking firewall rules, you’ll find me preserving Somali oral poetry in a digital archive (Gabay Keeper), building threat intelligence dashboards, or mentoring peers in cybersecurity.
+## Overview
 
----
+I am a penetration tester and Linux systems administrator based in Hargeisa, Somaliland. My work centers on identifying exploitable weaknesses before they become incidents, and on building the automation and hardening practices that keep infrastructure resilient afterward. I treat security as a continuous discipline rather than a checklist — the assessment is only half the job; the remediation and the follow-through are what actually reduce risk.
 
-## 📈 Impact by the Numbers
+I am currently completing a B.Sc. in Computer Science at the University of Hargeisa (expected 2027, GPA 3.6/4.0), with coursework concentrated in network security, cryptography, web application security, and secure software development lifecycle practices. Alongside my studies, I have worked as a freelance penetration tester and Linux administrator since my second year, applying academic theory directly to live client environments.
 
-| Metric | Achievement |
-|--------|-------------|
-| 🔻 **40%** reduction in recurrence of critical findings | through actionable, risk-prioritized reports |
-| 🛡️ **12+** critical misconfigurations found per engagement | using Nessus/OpenVAS weekly scans |
-| ⏱️ **8 hours/week saved** (30% reduction in manual security tasks) | by automating log analysis & patch checks with Python |
-| 📈 **20% system uptime increase** | via Nagios monitoring and kernel tuning |
-| ✅ **Zero compliance findings** | after implementing SSH hardening, firewalls, sudo policies on 15+ Linux servers |
-| 🎓 **3.6 GPA** & graduating **2027** | B.Sc. Computer Science, University of Hargeisa |
+Outside of security engagements, I maintain Gabay Keeper, a digital preservation project for Somali oral poetry, and mentor students entering cybersecurity and systems administration in Somaliland.
 
----
+<br>
 
-## 🔥 What I bring to the table
+## Measured Impact
 
-- **Penetration Testing** – Web, network, internal infrastructure (Nessus, OpenVAS, Burp Suite, Metasploit, Nmap).  
-- **Linux Hardening** – SSH, firewalls, sudo policies, kernel tuning, Nagios monitoring.  
-- **Security Automation** – Python scripts to cut manual work and catch misconfigurations early.  
-- **Clear Reporting** – CVSS scoring, OWASP Top 10, executive‑friendly summaries with reproducible steps.  
-- **Teaching & Mentoring** – I regularly help junior developers and students understand security basics.
+| Area | Result |
+|---|---|
+| Recurring critical findings | Reduced by 40 percent through risk-prioritized, actionable reporting |
+| Vulnerability discovery | 12+ critical misconfigurations identified per engagement via weekly Nessus/OpenVAS scans |
+| Manual workload | 8 hours per week reclaimed (30 percent reduction) by automating log analysis and patch verification in Python |
+| System reliability | 20 percent uptime improvement through Nagios monitoring and kernel tuning |
+| Compliance posture | Zero findings after SSH hardening, firewall configuration, and sudo policy enforcement across 15+ Linux servers |
 
----
+<br>
 
-## 🛠️ Toolbox
+## Core Competencies
+
+**Penetration Testing** — Web, network, and internal infrastructure assessments using Nessus, OpenVAS, Burp Suite, Metasploit, and Nmap.
+
+**Linux Hardening** — SSH configuration, firewall policy, sudo governance, kernel tuning, and continuous monitoring with Nagios.
+
+**Security Automation** — Python-based tooling to reduce manual effort and surface misconfigurations before they are exploited.
+
+**Reporting and Communication** — CVSS scoring, OWASP Top 10 alignment, and findings written for both technical teams and executive stakeholders, with reproducible proof-of-concept steps.
+
+**Mentorship** — Ongoing support for junior developers and students building foundational security and Linux skills.
+
+<br>
+
+## Technical Toolkit
 
 ```text
-🔐 Security:     Nessus | OpenVAS | Burp Suite | Wireshark | Metasploit | Nmap
-🐍 Dev:          Python | Java | Bash | Git | Next.js | React | TypeScript | Firebase
-🐧 Sysadmin:     Ubuntu/RHEL/CentOS | Nagios | VMware | SSH | iptables | AD
-🧠 Languages:    Somali (Native) | English (Fluent) | Arabic (Conversational)
-📦 Other:        OWASP Top 10 | CVSS | Risk Management | Technical/Executive Reporting
+Security       Nessus · OpenVAS · Burp Suite · Wireshark · Metasploit · Nmap
+Development    Python · Java · Bash · Git · Next.js · React · TypeScript · Firebase
+Systems        Ubuntu · RHEL · CentOS · Nagios · VMware · SSH · iptables · Active Directory
+Frameworks     OWASP Top 10 · CVSS · Risk Management · Technical & Executive Reporting
+Languages      Somali (native) · English (fluent) · Arabic (conversational)
 ```
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Nagios-1F4D7A?style=flat-square&logo=nagios&logoColor=white" />
-  <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white" />
-</p>
+<div align="center">
 
----
+![Python](https://img.shields.io/badge/Python-1a1a1a?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-1a1a1a?style=flat-square&logo=openjdk&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-1a1a1a?style=flat-square&logo=gnu-bash&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-1a1a1a?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-1a1a1a?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-1a1a1a?style=flat-square&logo=typescript&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-1a1a1a?style=flat-square&logo=firebase&logoColor=FFCA28)
+![Linux](https://img.shields.io/badge/Linux-1a1a1a?style=flat-square&logo=linux&logoColor=FCC624)
+![Nagios](https://img.shields.io/badge/Nagios-1a1a1a?style=flat-square&logo=nagios&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-1a1a1a?style=flat-square&logo=vmware&logoColor=white)
 
-## 🌍 Beyond Code
+</div>
 
-- 🏛️ **Cultural archivist** – I believe technology can preserve endangered oral traditions. Gabay Keeper is just the beginning.
-- 🧠 **Lifelong learner** – I hold 5 active certifications (Cisco, Cybrary, Microsoft, GitHub) and I'm always chasing the next one.
-- 🤝 **Mentor** – I help other students in Somaliland break into cybersecurity and Linux administration.
-- ☕ **Coffee enthusiast** – You'll often find me debugging with a cup of Somali tea in hand.
+<br>
 
----
+## Certifications
 
-## 📜 Certifications
+| Credential | Issuer | Verification |
+|---|---|---|
+| Cyber Threat Management | Cisco | [Credly](https://www.credly.com/badges/b4fce403-72e2-45c1-9c23-d8be733b06a4/public_url) |
+| Penetration Testing Professional | Cybrary | [LinkedIn Learning](https://www.linkedin.com/learning/certificates/212ba3619b3f7861364d3abbceb053dfeaffe5694695a4a767601f756404dd6e/) |
+| Microsoft Security Essentials | Microsoft | [LinkedIn Learning](https://www.linkedin.com/learning/certificates/540585c949c8154fc65ad5caaa5a905e73cde74e32bdb0543210cce49ecceedc/) |
+| Career Essentials in GitHub | GitHub | [LinkedIn Learning](https://www.linkedin.com/learning/certificates/8c4374660038b5e6e9b7092ee0f30619ec019d47d6cc267cee2a0cf1394c2d48) |
+| Career Essentials in Cybersecurity | Microsoft | [LinkedIn Learning](https://www.linkedin.com/learning/certificates/d736a666b751844e8009136d3831f7dad97edfc9a044f15c347fc941bf8eb49a) |
 
-- 🔗 **[Cyber Threat Management](https://www.credly.com/badges/b4fce403-72e2-45c1-9c23-d8be733b06a4/public_url)** – Cisco *(Credly)*
-- 🔗 **[Penetration Testing Professional](https://www.linkedin.com/learning/certificates/212ba3619b3f7861364d3abbceb053dfeaffe5694695a4a767601f756404dd6e/)** – Cybrary *(LinkedIn)*
-- 🔗 **[Microsoft Security Essentials](https://www.linkedin.com/learning/certificates/540585c949c8154fc65ad5caaa5a905e73cde74e32bdb0543210cce49ecceedc/)** – Microsoft *(LinkedIn)*
-- 🔗 **[Career Essentials in GitHub](https://www.linkedin.com/learning/certificates/8c4374660038b5e6e9b7092ee0f30619ec019d47d6cc267cee2a0cf1394c2d48)** – GitHub *(LinkedIn)*
-- 🔗 **[Career Essentials in Cybersecurity](https://www.linkedin.com/learning/certificates/d736a666b751844e8009136d3831f7dad97edfc9a044f15c347fc941bf8eb49a)** – Microsoft *(LinkedIn)*
+<br>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Cisco-Cyber_Threat_Management-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cybrary-PenTest_Pro-FF6B6B?style=flat-square" />
-  <img src="https://img.shields.io/badge/Microsoft-Security_Essentials-00A4EF?style=flat-square&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-Career_Essentials-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft-Cybersecurity_Essentials-00A4EF?style=flat-square&logo=microsoft&logoColor=white" />
-</p>
+## Beyond Security
 
----
+**Cultural preservation** — Gabay Keeper is a digital archive built to preserve Somali oral poetry, an ongoing effort to apply engineering practice to cultural heritage.
 
-## 🎯 What I'm currently working on
+**Continuous learning** — Five active certifications across Cisco, Cybrary, Microsoft, and GitHub, with further credentials in progress.
 
-- 🔐 Expanding my portfolio with more **real‑world pentest reports** (anonymized) to share here.
-- 📚 Preparing for **OSCP** (Offensive Security Certified Professional) – the big one.
-- 🌐 Building a **personal security blog** to write about CVEs, Linux hardening tricks, and automation scripts.
-- 🗃️ Adding more features to **Gabay Keeper** – user accounts, audio uploads, and community contributions.
+**Community mentorship** — Regular support for students in Somaliland entering cybersecurity and Linux administration.
 
----
+<br>
 
-## 📊 GitHub Stats
+## Currently Building
 
-<p align="center">
-  <!-- General Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=guuly05&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" alt="Guuleed's GitHub stats" width="48%" />
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guuly05&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
-</p>
+- Expanding a portfolio of anonymized, real-world penetration test reports
+- Preparing for the Offensive Security Certified Professional (OSCP) certification
+- Writing a technical blog covering CVE analysis, Linux hardening, and automation
+- Extending Gabay Keeper with user accounts, audio uploads, and community contribution features
 
-<p align="center">
-  <!-- Top Languages (Compact) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guuly05&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" alt="Top Languages" width="48%" />
+<br>
 
-</p>
+## GitHub Activity
 
-<!-- Activity Graph (last year) -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=guuly05&theme=react-dark&bg_color=0D1117&hide_border=true" alt="Contribution Graph" width="100%" />
-</p>
+<div align="center">
+<img src="https://github-stats-extended.vercel.app/api?username=guuly05&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=1a1a1a&text_color=333333&icon_color=1a1a1a&count_private=true" alt="GitHub stats" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=guuly05&theme=default&hide_border=true&background=ffffff&stroke=1a1a1a&ring=1a1a1a&fire=1a1a1a&currStreakLabel=1a1a1a" alt="GitHub streak" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=guuly05&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=1a1a1a&text_color=333333" alt="Top languages" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=guuly05&theme=minimal&bg_color=ffffff&hide_border=true" alt="Contribution graph" width="100%" />
+</div>
 
----
+<br>
 
-## 📫 Let's connect
+## Contact
 
-- 📧 Email: **guuleedmaxmuud40@gmail.com**  
-- 💼 LinkedIn: **[Guuleed Maxmuud Aw Abdi](https://www.linkedin.com/in/guuleed-maxmuud-aw-abdi-079b882bb/)**  
-- 🐙 GitHub: **github.com/guuly05**  
-- 📍 Hargeisa, Somaliland
+Email — guuleedmaxmuud40@gmail.com
+LinkedIn — [Guuleed Maxmuud Aw Abdi](https://www.linkedin.com/in/guuleed-maxmuud-aw-abdi-079b882bb/)
+GitHub — [github.com/guuly05](https://github.com/guuly05)
+Location — Hargeisa, Somaliland
 
-> *“Security is not a product, but a process.” – Bruce Schneier*
+<br>
+
+<div align="center">
+
+*"Security is not a product, but a process."* — Bruce Schneier
+
+</div>
