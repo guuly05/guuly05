@@ -77,15 +77,6 @@ Languages      Somali (native) · English (fluent) · Arabic (conversational)
 
 <br>
 
-## Certifications
-
-| Credential | Issuer | Verification |
-|---|---|---|
-| Cyber Threat Management | Cisco | [Credly](https://www.credly.com/badges/b4fce403-72e2-45c1-9c23-d8be733b06a4/public_url) |
-| Penetration Testing Professional | Cybrary | [LinkedIn Learning](https://www.linkedin.com/learning/certificates/212ba3619b3f7861364d3abbceb053dfeaffe5694695a4a767601f756404dd6e/) |
-| Microsoft Security Essentials | Microsoft | [LinkedIn Learning](https://www.linkedin.com/learning/certificates/540585c949c8154fc65ad5caaa5a905e73cde74e32bdb0543210cce49ecceedc/) |
-| Career Essentials in GitHub | GitHub | [LinkedIn Learning](https://www.linkedin.com/learning/certificates/8c4374660038b5e6e9b7092ee0f30619ec019d47d6cc267cee2a0cf1394c2d48) |
-| Career Essentials in Cybersecurity | Microsoft | [LinkedIn Learning](https://www.linkedin.com/learning/certificates/d736a666b751844e8009136d3831f7dad97edfc9a044f15c347fc941bf8eb49a) |
 
 <br>
 
