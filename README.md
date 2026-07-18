@@ -113,14 +113,13 @@ Languages      Somali (native) · English (fluent) · Arabic (conversational)
 ## Contact
 
 Email — guuleedmaxmuud40@gmail.com
-LinkedIn — [Guuleed Maxmuud Aw Abdi](https://www.linkedin.com/in/guuleed-maxmuud-aw-abdi-079b882bb/)
-GitHub — [github.com/guuly05](https://github.com/guuly05)
+LinkedIn — [Guuleed Maxmuud Aw Abdi](www.linkedin.com/in/guuleed-aw-abdi)
 Location — Hargeisa, Somaliland
 
 <br>
 
 <div align="center">
 
-*"Security is not a product, but a process."* — Bruce Schneier
+*"Security is not a product, but a process."* — aizen souske
 
 </div>
