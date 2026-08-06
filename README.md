@@ -102,7 +102,7 @@ Languages      Somali (native) · English (fluent) · Arabic (conversational)
 ## GitHub Activity
 
 <div align="center">
-<img src="https://github-stats-extended.vercel.app/api?username=guuly05&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=1a1a1a&text_color=333333&icon_color=1a1a1a&count_private=true" alt="GitHub stats" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api?username=guuly05&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=1a1a1a&text_color=333333&icon_color=1a1a1a&count_private=true&t=20260807" alt="GitHub stats" width="48%" />
 <img src="https://streak-stats.demolab.com/?user=guuly05&theme=default&hide_border=true&background=ffffff&stroke=1a1a1a&ring=1a1a1a&fire=1a1a1a&currStreakLabel=1a1a1a" alt="GitHub streak" width="48%" />
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=guuly05&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=1a1a1a&text_color=333333" alt="Top languages" width="48%" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=guuly05&theme=minimal&bg_color=ffffff&hide_border=true" alt="Contribution graph" width="100%" />
