@@ -71,6 +71,21 @@ My portfolio is also a working application: case studies, a Markdown publishing 
 
 </div>
 
+## GitHub activity
+
+<div align="center">
+  <a href="https://github.com/guuly05">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=guuly05&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub stats for @guuly05" />
+  </a>
+  <a href="https://github.com/guuly05">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guuly05&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Most used programming languages on @guuly05's public repositories" />
+  </a>
+  <br />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=guuly05&theme=default&hide_border=true" alt="GitHub contribution streak for @guuly05" />
+  </a>
+</div>
+
 ## Security is still part of the story
 
 My security work has taught me to look past the happy path: how authentication fails, where access boundaries become unclear, what an operator sees during an incident, and whether a fix will survive contact with the real system.
@@ -157,3 +172,5 @@ If you’re building a product, improving a system, learning security, or simply
 *Build useful things. Think securely. Finish with care.*
 
 </div>
+
+
