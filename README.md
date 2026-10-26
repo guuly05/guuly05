@@ -7,8 +7,6 @@
 I build useful software, and I care what happens after launch.
 
 [![Website](https://img.shields.io/badge/Website-guuleedmaxamuud.dev-0f766e?style=flat-square&logo=google-chrome&logoColor=white)](https://www.guuleedmaxamuud.dev)
-[![GitHub](https://img.shields.io/badge/GitHub-guuly05-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/guuly05)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/guuleed-aw-abdi-517928277)
 [![Email](https://img.shields.io/badge/Email-Say_hello-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:guuleedmaxamuud40@gmail.com)
 
 ![Profile views](https://komarev.com/ghpvc/?username=guuly05&label=Profile%20views&color=0f766e&style=flat-square)
@@ -163,8 +161,6 @@ That is probably why **Gabay Keeper**, **Code Geass**, **The Art of War**, and *
 If you’re building a product, improving a system, learning security, or simply have a problem worth working through, I’d be glad to hear about it.
 
 - Website: [guuleedmaxamuud.dev](https://www.guuleedmaxamuud.dev)
-- GitHub: [@guuly05](https://github.com/guuly05)
-- LinkedIn: [Guuleed Maxmuud Aw Abdi](https://linkedin.com/in/guuleed-aw-abdi-517928277)
 - Email: [guuleedmaxamuud40@gmail.com](mailto:guuleedmaxamuud40@gmail.com)
 
 <div align="center">
