@@ -23,7 +23,7 @@ I speak **Somali** (native), **English** (professional working proficiency), and
 
 ## Selected work
 
-### [DaryeelPass — Clinic Discovery & Request Prototype](https://www.guuleedmaxamuud.dev/portfolio)
+### [DaryeelPass — Clinic Discovery & Request Prototype](https://www.guuleedmaxamuud.dev/portfolio/daryeelpass)
 A Somali and English clinic directory and role-based appointment-request prototype for Hargeisa. It supports patient, clinic, and system administration workflows, with clinic-scoped data access and clear demo boundaries.
 
 `React` `JavaScript` `Vite` `Express` `PostgreSQL` `Prisma` `PWA` `Workbox`
@@ -38,7 +38,7 @@ A production-oriented portfolio, technical blog, contact service, and calendar b
 
 `React 19` `TypeScript` `Vite` `Vercel Functions` `Google Calendar` `Cloudflare Turnstile`
 
-### [Cyber Attack Monitoring Dashboard](https://github.com/guuly05/cyber-attack-monitoring-dashboard)
+### [Cyber Attack Monitoring Dashboard](https://www.guuleedmaxamuud.dev/portfolio/cyber-dashboard)
 Threat intelligence and investigation toolkit for security analysts, with server-side provider proxying to keep API keys out of the client.
 
 `Next.js` `React` `TypeScript` `Tailwind CSS` `TanStack Query` `Recharts`
