@@ -2,50 +2,18 @@
 
 # Guuleed Maxmuud Aw Abdi
 
-### Full-Stack Developer | Cybersecurity & DevOps
+### Full-Stack Developer
 
-**Hargeisa, Somaliland · Open to full-stack roles · Remote ready**
-
-I build secure, production-ready products—working across React and TypeScript, APIs, deployment, and practical application security.
+I build web applications with a focus on thoughtful user experiences, reliable systems, and secure engineering.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-guuleedmaxamuud.dev-0f766e?style=for-the-badge&logo=vercel&logoColor=white)](https://www.guuleedmaxamuud.dev)
 [![Email](https://img.shields.io/badge/Email-Say_hello-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guuleedmaxamuud40@gmail.com)
 
-![Profile views](https://komarev.com/ghpvc/?username=guuly05&label=Profile%20views&color=0f766e&style=flat-square)
-
 </div>
 
-## About me
+## About
 
-I’m a full-stack developer and Computer Science student at the **University of Hargeisa** (B.Sc., 2023–2027). I enjoy understanding both sides of a product: the experience people see and the systems that make it work. My work spans interfaces, APIs, deployment, automation, and security-minded engineering.
-
-I speak **Somali** (native), **English** (professional working proficiency), and **Arabic** (conversational). I care about building useful systems, continuing to learn, thinking securely, and finishing with care.
-
-## Selected work
-
-### [DaryeelPass — Clinic Discovery & Request Prototype](https://www.guuleedmaxamuud.dev/portfolio/daryeelpass)
-A Somali and English clinic directory and role-based appointment-request prototype for Hargeisa. It supports patient, clinic, and system administration workflows, with clinic-scoped data access and clear demo boundaries.
-
-`React` `JavaScript` `Vite` `Express` `PostgreSQL` `Prisma` `PWA` `Workbox`
-
-### [Samaale General Trading Co. Digital Headquarters](https://samaale-general-trading.com)
-A production bilingual commerce and logistics platform for a regional distributor, bringing its catalogue, branch network, and procurement services into a clear, conversion-focused experience. Built as sole developer and technical architect.
-
-`React 19` `TypeScript` `Vite` `Tailwind CSS` `Cloudflare Workers` `Leaflet` `English / Somali`
-
-### [Full-Stack Portfolio Platform](https://www.guuleedmaxamuud.dev)
-A production-oriented portfolio, technical blog, contact service, and calendar booking system with route-aware SEO, protected workflows, and Google Calendar integration.
-
-`React 19` `TypeScript` `Vite` `Vercel Functions` `Google Calendar` `Cloudflare Turnstile`
-
-### [Cyber Attack Monitoring Dashboard](https://www.guuleedmaxamuud.dev/portfolio/cyber-dashboard)
-Threat intelligence and investigation toolkit for security analysts, with server-side provider proxying to keep API keys out of the client.
-
-`Next.js` `React` `TypeScript` `Tailwind CSS` `TanStack Query` `Recharts`
-
-
-[**Explore all case studies →**](https://www.guuleedmaxamuud.dev/portfolio)
-
+Full-stack developer based in Hargeisa, Somaliland. I work across frontend development, APIs, databases, deployment, and application security.
 
 ## Skills & tools
 
@@ -94,41 +62,28 @@ Threat intelligence and investigation toolkit for security analysts, with server
 
 </div>
 
+## Selected work
+
+- [Samaale General Trading Co.](https://samaale-general-trading.com)
+- [Portfolio and selected projects](https://www.guuleedmaxamuud.dev/portfolio)
+
 ## GitHub activity
 
 <div align="center">
   <a href="https://github.com/guuly05">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=guuly05&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub stats for @guuly05" />
+    <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=guuly05&theme=github_dark" alt="GitHub stats for @guuly05" />
   </a>
   <a href="https://github.com/guuly05">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guuly05&layout=compact&langs_count=10&hide_border=true&theme=transparent" alt="Most used languages in public repositories" />
+    <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=guuly05&theme=github_dark" alt="Most used languages in public repositories" />
   </a>
   <br />
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=guuly05&hide_border=true&theme=transparent" alt="GitHub contribution streak for @guuly05" />
-  </a>
-  <br />
-  <a href="https://github.com/guuly05?tab=repositories">
-    <img src="https://github-profile-trophy.vercel.app/?username=guuly05&theme=flat&no-frame=true&no-bg=true&margin-w=8" alt="GitHub profile trophies" />
+    <img src="https://streak-stats.demolab.com?user=guuly05&hide_border=true&theme=transparent" alt="GitHub contribution streak for @guuly05" />
   </a>
 </div>
 
-## Education & credentials
+## Connect
 
-**B.Sc. Computer Science**, University of Hargeisa · 2023–2027 (expected)
-
-Recent learning includes Career Essentials in GitHub, Career Essentials in Cybersecurity, Microsoft Azure Security Technologies, Cloud Tech Associate Advanced Security + EDR, Access Governance & Risk Management, Web Application Security for the Everyday Software Engineer, and Securing MongoDB Self-Managed Networking. [See credentials and verification links](https://www.guuleedmaxamuud.dev/credentials).
-
-## Let’s connect
-
-I’m interested in full-stack product work where thoughtful interfaces, reliable systems, and secure engineering come together.
-
-- **Portfolio:** [guuleedmaxamuud.dev](https://www.guuleedmaxamuud.dev)
+- **Website:** [guuleedmaxamuud.dev](https://www.guuleedmaxamuud.dev)
 - **Email:** [guuleedmaxamuud40@gmail.com](mailto:guuleedmaxamuud40@gmail.com)
-
-<div align="center">
-
-*Build useful systems. Think securely. Finish with care.*
-
-</div>
-
+- **GitHub:** [@guuly05](https://github.com/guuly05)
